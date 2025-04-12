@@ -1,4 +1,4 @@
-# 🔍 Zero-Shot Object Detection using OWL-ViT
+# Zero-Shot Object Detection using OWL-ViT
 
 This project implements real-time zero-shot object detection using the OWL-ViT model from Google. The system detects objects that are **not part of the standard COCO dataset** using natural language prompts like "a lightbulb" or "a gaming console" — without any retraining.
 
