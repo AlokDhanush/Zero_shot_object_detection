@@ -90,7 +90,7 @@ One of the biggest challenges was maintaining a smooth frame rate while running 
 "a lightbulb", "a matchstick", "a computer monitor", "a lion", "a gaming console"
 ```
 
-Feel free to test your own prompts — anything outside of COCO works best!
+Test any prompt that are not in the COCO dataset labels
 
 ---
 
